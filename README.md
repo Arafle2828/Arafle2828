@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/raflie-aditya-5a58a8285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raflie aditya" height="30" width="40" /></a>
 <a href="https://fb.com/Raflie.Aditya.7505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raflie aditya" height="30" width="40" /></a>
 <a href="https://instagram.com/addxcted24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addxcted24" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@raflissiaarnoldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raflie aditya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@raflissiaarnoldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raflie aditya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
