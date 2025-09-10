@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, vue, and mysql**
 
-- 📫 How to reach me **raflieaditya@gmail.com**
+- 📫 How to reach me **raflieaditya028@gmail.com**
 
 - ⚡ Fun fact **I like cats, eager to learn Information Technology, sometimes I forgot a little thing.**
 
